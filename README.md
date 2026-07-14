@@ -1,5 +1,10 @@
 # JoshTalk-AI-Task2
 
+![React](https://img.shields.io/badge/React-18-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
+![Status](https://img.shields.io/badge/Status-Completed-success)# JoshTalk-AI-Task2
+
 ## 📌 Project Overview
 
 The **Transcription Quality Evaluation Dashboard** is an AI-powered dashboard that identifies low-quality transcription contributors using behavioral analytics instead of manual review.
