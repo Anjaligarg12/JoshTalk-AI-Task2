@@ -1,10 +1,14 @@
 # JoshTalk-AI-Task2
 
+> AI-powered Transcription Quality Evaluation Dashboard built for the Josh Talks AI Product Hiring Assignment – Task 2.
+
+---
+
 ## 📌 Project Overview
 
 The **Transcription Quality Evaluation Dashboard** is an AI-powered platform designed to identify low-quality transcription contributors using behavioral analytics instead of manual review.
 
-This project was developed as part of the **Josh Talks AI Product Hiring Assignment – Task 2**.
+Developed for the **Josh Talks AI Product Hiring Assignment – Task 2**.
 
 ---
 
@@ -12,7 +16,7 @@ This project was developed as part of the **Josh Talks AI Product Hiring Assignm
 
 Large-scale transcription platforms often receive poor-quality submissions due to rushed work, copy-paste behavior, or contributors who skip listening to audio.
 
-The dashboard helps reviewers identify risky contributors using behavioral telemetry and automated quality scoring, reducing manual review effort while improving dataset quality.
+The dashboard identifies risky contributors using behavioral telemetry and automated quality scoring, helping reviewers improve transcription quality efficiently.
 
 ---
 
@@ -31,12 +35,10 @@ The dashboard helps reviewers identify risky contributors using behavioral telem
 
 ## 📊 Detection Metrics
 
-The platform evaluates contributors using:
-
 - Listening Ratio
 - Edit Rate
 - Characters Per Second (CPS)
-- Repeated Suspicious Behaviour
+- Suspicious Behaviour Detection
 - Dynamic Quality Score
 
 ---
@@ -65,22 +67,43 @@ The platform evaluates contributors using:
 
 ## 🚀 Live Demo
 
-https://josh-talk-ai-task2.vercel.app/
+👉 https://josh-talk-ai-task2.vercel.app/
 
 ---
 
 ## 📂 GitHub Repository
 
-https://github.com/Anjaligarg12/JoshTalk-AI-Task2
+👉 https://github.com/Anjaligarg12/JoshTalk-AI-Task2
 
 ---
 
 ## 📄 Documentation
 
-Technical documentation is available in the **docs/** folder.
+Available inside the **docs/** folder:
 
 - Task_2_Transcription_Quality_Evaluation_Report.pdf
 - Task_2_Transcription_Quality_Evaluation_Report.docx
+
+---
+
+## 📁 Project Structure
+
+```text
+src/
+public/
+docs/
+README.md
+package.json
+```
+
+---
+
+## ⚙️ Installation
+
+```bash
+npm install
+npm run dev
+```
 
 ---
 
@@ -89,21 +112,15 @@ Technical documentation is available in the **docs/** folder.
 - AI-powered anomaly detection
 - Real-time transcription monitoring
 - Authentication & Role-based Access
-- Reviewer Management Workflow
+- Reviewer Management
 - Database Integration
 - Audit Logs
-- Performance Optimization
 
 ---
 
-## 📷 Application Modules
+## 📷 Screenshots
 
-- Dashboard
-- User Analysis
-- Quality Score Engine
-- Detection Rules
-- Analytics
-- AI Recommendations
+Screenshots are included in the project report and repository.
 
 ---
 
@@ -114,3 +131,9 @@ Technical documentation is available in the **docs/** folder.
 B.Tech Computer Science (AI & ML)
 
 Josh Talks AI Product Hiring Assignment – Task 2
+
+---
+
+## ⭐ Acknowledgement
+
+Developed as part of the Josh Talks AI Product Hiring Assignment.
