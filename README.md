@@ -1,32 +1,104 @@
-# React + TypeScript + Vite
+# JoshTalk-AI-Task2
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 📌 Project Overview
 
-Currently, two official plugins are available:
+The **Transcription Quality Evaluation Dashboard** is an AI-powered platform designed to identify low-quality transcription contributors using behavioral analytics instead of manual review.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project was developed as part of the **Josh Talks AI Product Hiring Assignment (Task 2)**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎯 Problem Statement
 
-## Expanding the Oxlint configuration
+Large-scale transcription platforms often receive poor-quality submissions due to rushed work, copy-paste behavior, or contributors who skip listening to audio.
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+This dashboard helps identify such contributors using data-driven behavioral metrics and provides actionable recommendations for reviewers.
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+---
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## ✨ Features
+
+- Interactive AI Operations Dashboard
+- User Analysis
+- Quality Score Engine
+- Detection Rules
+- System Analytics
+- AI Recommendations
+- Responsive Enterprise UI
+- Interactive Charts & Graphs
+
+---
+
+## 📊 Detection Metrics
+
+The platform evaluates contributors using:
+
+- Listening Ratio
+- Edit Rate
+- Characters Per Second (CPS)
+- Suspicious Behaviour Detection
+- Quality Score
+
+---
+
+## 📈 Dashboard Modules
+
+- Dashboard
+- User Analysis
+- Quality Score Engine
+- Detection Rules
+- Analytics
+- AI Recommendations
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Recharts
+- Lucide React
+
+---
+
+## 🚀 Live Demo
+
+https://josh-talk-ai-task2.vercel.app/
+
+---
+
+## 📂 GitHub Repository
+
+https://github.com/Anjaligarg12/JoshTalk-AI-Task2
+
+---
+
+## 📄 Documentation
+
+The complete technical report is available inside the **docs/** folder.
+
+- Task_2_Transcription_Quality_Evaluation_Report.pdf
+- Task_2_Transcription_Quality_Evaluation_Report.docx
+
+---
+
+## 🚀 Future Improvements
+
+- Live transcription monitoring
+- AI anomaly detection
+- Authentication
+- Reviewer Management
+- Audit Logs
+- Database Integration
+
+---
+
+## 👩‍💻 Author
+
+**Anjali Garg**
+
+B.Tech CSE (AI & ML)
+
+Josh Talks AI Hiring Assignment – Task 2
