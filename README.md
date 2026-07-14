@@ -2,42 +2,42 @@
 
 ## 📌 Project Overview
 
-The **Transcription Quality Evaluation Dashboard** is an AI-powered platform designed to identify low-quality transcription contributors using behavioral analytics instead of manual review.
+The **Transcription Quality Evaluation Dashboard** is an AI-powered dashboard that identifies low-quality transcription contributors using behavioral analytics instead of manual review.
 
-This project was developed as part of the **Josh Talks AI Product Hiring Assignment (Task 2)**.
+Developed as part of the **Josh Talks AI Product Hiring Assignment – Task 2**.
 
 ---
 
 ## 🎯 Problem Statement
 
-Large-scale transcription platforms often receive poor-quality submissions due to rushed work, copy-paste behavior, or contributors who skip listening to audio.
+Large-scale transcription platforms receive thousands of submissions daily. Manual quality checking is time-consuming and inconsistent.
 
-This dashboard helps identify such contributors using data-driven behavioral metrics and provides actionable recommendations for reviewers.
+This dashboard helps reviewers quickly identify risky contributors by analyzing behavioral metrics such as listening ratio, edit rate, typing speed, and overall quality score.
 
 ---
 
 ## ✨ Features
 
-- Interactive AI Operations Dashboard
+- AI Quality Operations Dashboard
 - User Analysis
 - Quality Score Engine
 - Detection Rules
-- System Analytics
+- Analytics Dashboard
 - AI Recommendations
-- Responsive Enterprise UI
-- Interactive Charts & Graphs
+- Interactive Charts
+- Fully Responsive UI
 
 ---
 
 ## 📊 Detection Metrics
 
-The platform evaluates contributors using:
+The system evaluates contributors using:
 
 - Listening Ratio
 - Edit Rate
 - Characters Per Second (CPS)
-- Suspicious Behaviour Detection
 - Quality Score
+- Suspicious Behaviour Detection
 
 ---
 
@@ -75,9 +75,9 @@ https://github.com/Anjaligarg12/JoshTalk-AI-Task2
 
 ---
 
-## 📄 Documentation
+## 📄 Project Documentation
 
-The complete technical report is available inside the **docs/** folder.
+The complete project report is available inside the **docs/** folder.
 
 - Task_2_Transcription_Quality_Evaluation_Report.pdf
 - Task_2_Transcription_Quality_Evaluation_Report.docx
@@ -89,9 +89,9 @@ The complete technical report is available inside the **docs/** folder.
 - Live transcription monitoring
 - AI anomaly detection
 - Authentication
-- Reviewer Management
-- Audit Logs
-- Database Integration
+- Reviewer management
+- Database integration
+- Audit logs
 
 ---
 
@@ -99,6 +99,6 @@ The complete technical report is available inside the **docs/** folder.
 
 **Anjali Garg**
 
-B.Tech CSE (AI & ML)
+B.Tech Computer Science (AI & ML)
 
 Josh Talks AI Hiring Assignment – Task 2
