@@ -5,19 +5,21 @@
 ![Vite](https://img.shields.io/badge/Vite-Frontend-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)# JoshTalk-AI-Task2
 
+# JoshTalk-AI-Task2
+
 ## 📌 Project Overview
 
-The **Transcription Quality Evaluation Dashboard** is an AI-powered dashboard that identifies low-quality transcription contributors using behavioral analytics instead of manual review.
+The **Transcription Quality Evaluation Dashboard** is an AI-powered platform designed to identify low-quality transcription contributors using behavioral analytics instead of manual review.
 
-Developed as part of the **Josh Talks AI Product Hiring Assignment – Task 2**.
+This project was developed as part of the **Josh Talks AI Product Hiring Assignment – Task 2**.
 
 ---
 
 ## 🎯 Problem Statement
 
-Large-scale transcription platforms receive thousands of submissions daily. Manual quality checking is time-consuming and inconsistent.
+Large-scale transcription platforms often receive poor-quality submissions due to rushed work, copy-paste behavior, or contributors who skip listening to audio.
 
-This dashboard helps reviewers quickly identify risky contributors by analyzing behavioral metrics such as listening ratio, edit rate, typing speed, and overall quality score.
+The dashboard helps reviewers identify risky contributors using behavioral telemetry and automated quality scoring, reducing manual review effort while improving dataset quality.
 
 ---
 
@@ -29,20 +31,20 @@ This dashboard helps reviewers quickly identify risky contributors by analyzing 
 - Detection Rules
 - Analytics Dashboard
 - AI Recommendations
-- Interactive Charts
-- Fully Responsive UI
+- Interactive Charts & Visualizations
+- Responsive Enterprise UI
 
 ---
 
 ## 📊 Detection Metrics
 
-The system evaluates contributors using:
+The platform evaluates contributors using:
 
 - Listening Ratio
 - Edit Rate
 - Characters Per Second (CPS)
-- Quality Score
-- Suspicious Behaviour Detection
+- Repeated Suspicious Behaviour
+- Dynamic Quality Score
 
 ---
 
@@ -80,9 +82,9 @@ https://github.com/Anjaligarg12/JoshTalk-AI-Task2
 
 ---
 
-## 📄 Project Documentation
+## 📄 Documentation
 
-The complete project report is available inside the **docs/** folder.
+Technical documentation is available in the **docs/** folder.
 
 - Task_2_Transcription_Quality_Evaluation_Report.pdf
 - Task_2_Transcription_Quality_Evaluation_Report.docx
@@ -91,12 +93,24 @@ The complete project report is available inside the **docs/** folder.
 
 ## 🚀 Future Improvements
 
-- Live transcription monitoring
-- AI anomaly detection
-- Authentication
-- Reviewer management
-- Database integration
-- Audit logs
+- AI-powered anomaly detection
+- Real-time transcription monitoring
+- Authentication & Role-based Access
+- Reviewer Management Workflow
+- Database Integration
+- Audit Logs
+- Performance Optimization
+
+---
+
+## 📷 Application Modules
+
+- Dashboard
+- User Analysis
+- Quality Score Engine
+- Detection Rules
+- Analytics
+- AI Recommendations
 
 ---
 
@@ -106,4 +120,4 @@ The complete project report is available inside the **docs/** folder.
 
 B.Tech Computer Science (AI & ML)
 
-Josh Talks AI Hiring Assignment – Task 2
+Josh Talks AI Product Hiring Assignment – Task 2
